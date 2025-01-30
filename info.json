@@ -1,0 +1,18 @@
+{
+  "name": "OwnlyMe-l10n",
+  "title": "OwnlyMe Language Pack",
+  "description": "Multi-language support for OwnlyMe mod series.\nLocale: English, Deutsch, 正體中文, 简体中文, Русский, Português Brasileiro, Español, Français",
+
+  "author": "Fr_Dae,OwnlyMe",
+  "email": "Dae.anthony@gmail.com",
+  "homepage": "https://github.com/FrDae-Factorio-QuickFix/OwnlyMe-l10n",
+  "contact": "Dae#5125",
+
+  "version": "2025.01.28",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "? ",
+    "? "
+  ]
+}
